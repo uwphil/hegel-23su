@@ -2,7 +2,7 @@
 title:               Hegel Reading Group
 tagline:             ''
 description:         'Hegel reading group for UW Philosophy, summer of 2023.'
-url:                 http://uwphil.github.io
+url:                 https://uwphil.github.io
 baseurl:             'hegel-23su'
 paginate:            5
 permalink:           pretty
