@@ -24,7 +24,7 @@ If you are joining remotely, use [this Zoom room](https://washington.zoom.us/j/9
 
 | Date | Reading Due | Recording | Notes | 
 | --- | --- | --- | --- |
-| Week 2, 6/28 | Hegel's Lectures on the History of Philosophy, Introduction | Forthcoming | Forthcoming |
+| Week 2, Wednesday 6/28 | Hegel's Lectures on the History of Philosophy, Introduction | Forthcoming | Forthcoming |
 | TBD | *Phenomenology*, Preface and Introduction  | Forthcoming | Forthcoming |
 
 ---
