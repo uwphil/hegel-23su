@@ -14,9 +14,11 @@ Led by Dr. Peters, University of Washington.
 
 ## Schedule and Location
 
-If you are joining remotely, use [this Zoom room](https://washington.zoom.us/j/99546368319){:target="_blank"}. Meetings will be recorded and posted below. We will be meeting:
+If you are joining remotely, use [this Zoom room](https://washington.zoom.us/j/99546368319){:target="_blank"}. Meetings will be recorded and posted below. We will be meeting every week:
 - Wednesday 12:00 PM - 1:00 PM, Savery Big Table (level 3)
 - Maybe Thursday? TBD
+
+We will communicate in the `#rg-hegel-su23` channel in the [UW Philosophy Discord](https://discord.gg/FEzZbzThJd){:target="_blank"}.
 
 ---
 
@@ -24,7 +26,7 @@ If you are joining remotely, use [this Zoom room](https://washington.zoom.us/j/9
 
 | Date | Reading Due | Recording | Notes | 
 | --- | --- | --- | --- |
-| Week 2, Wednesday 6/28 | Hegel's Lectures on the History of Philosophy, Introduction | Forthcoming | Forthcoming |
+| Week 2, Wed. 6/28 | Hegel's Lectures on the History of Philosophy, Introduction | Forthcoming | Forthcoming |
 | TBD | *Phenomenology*, Preface and Introduction  | Forthcoming | Forthcoming |
 
 ---
