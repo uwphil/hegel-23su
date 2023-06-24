@@ -39,3 +39,9 @@ Links provided by Prof. Peters.
 Words of encouragement from Prof. Peters on the *Phenomenology of the Spirit*:
 
 > It will likely read like gibberish. Yes, worse that Husserl. But, don't worry, Hegel ain't actually that hard. Seriously. Don't be intimidated. There's just a nest of terms that, as Lonergan and Hilbert would say, implicitly define one another that you have to a hold on and then the whole thing starts to open up.
+
+---
+
+<small>
+  Website maintained by Andre Ye. Last updated: 6/24/23.
+</small>
