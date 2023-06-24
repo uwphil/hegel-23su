@@ -26,7 +26,7 @@ We will communicate in the `#rg-hegel-su23` channel in the [UW Philosophy Discor
 
 | Date | Reading Due | Recording | Notes | 
 | --- | --- | --- | --- |
-| Week 2, Wed. 6/28 | Hegel's Lectures on the History of Philosophy, Introduction | Forthcoming | Forthcoming |
+| Week 2, Wed. 6/28 | Hegel's Lectures on the History of Philosophy, Introduction | Forthcoming | [Forthcoming](notes\meeting-1.md){:target="_blank"} |
 | TBD | *Phenomenology*, Preface and Introduction  | Forthcoming | Forthcoming |
 
 ---
@@ -34,7 +34,7 @@ We will communicate in the `#rg-hegel-su23` channel in the [UW Philosophy Discor
 ## Readings
 Links provided by Prof. Peters.
 - [Lectures on the History of Philosophy](https://archive.org/details/lecturesonthehis01hegeuoft/page/n21/mode/2up){:target="_blank"}
-- [*Phenomenology of the Spirit* (Findlay)](http://www.faculty.umb.edu/gary_zabel/Courses/Marxist_Philosophy/Hegel_and_Feuerbach_files/Hegel-Phenomenology-of-Spirit.pdf){:target="_blank"}
+- [*Phenomenology of the Spirit* (Findlay translation)](http://www.faculty.umb.edu/gary_zabel/Courses/Marxist_Philosophy/Hegel_and_Feuerbach_files/Hegel-Phenomenology-of-Spirit.pdf){:target="_blank"}
 
 Words of encouragement from Prof. Peters on the *Phenomenology of the Spirit*:
 
