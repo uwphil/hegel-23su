@@ -26,7 +26,7 @@ Updates and discussion are happening in the `#rg-hegel-su23` channel in the [UW 
 
 | Date | Reading Due | Recording | Notes | 
 | --- | --- | --- | --- |
-| Week 2, Wed. 6/28 | Hegel's Lectures on the History of Philosophy, Introduction | [Forthcoming](){:target="_blank"} | [Forthcoming](notes\meeting-1){:target="_blank"} |
+| Week 2, Wed. 6/28 | Hegel's Lectures on the History of Philosophy, Introduction (pp. 1 - 39) | [Forthcoming](){:target="_blank"} | [Forthcoming](notes\meeting-1){:target="_blank"} |
 | TBD | *Phenomenology*, Preface and Introduction  | [Forthcoming](){:target="_blank"} | [Forthcoming](notes\meeting-2){:target="_blank"} |
 
 ---
