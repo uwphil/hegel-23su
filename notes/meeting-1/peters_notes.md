@@ -3,7 +3,7 @@ layout: default
 title: Prof. Peters' Notes
 ---
 
-# Prof. Peters' Notes
+# Prof. Peters' Notes, Meeting 1 (Lectures on History of Philosophy)
 Download original Word document [here](notes\meeting-1\Hegel_Reading_Group_Notes.docx){:target="_blank"}.
 
 - Descartes initiated the criterion that philosophy must be methodical
