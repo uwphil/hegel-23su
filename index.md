@@ -24,10 +24,10 @@ Updates and discussion are happening in the `#rg-hegel-su23` channel in the [UW 
 
 ## Calendar
 
-| Date | Reading Due | Recording | Notes | 
-| --- | --- | --- | --- |
-| Week 2, Wed. 6/28 | Hegel's Lectures on the History of Philosophy, Introduction (pp. 1 - 39) | [Forthcoming](){:target="_blank"} | [Forthcoming](notes\meeting-1){:target="_blank"} |
-| TBD | *Phenomenology*, Preface and Introduction  | [Forthcoming](){:target="_blank"} | [Forthcoming](notes\meeting-2){:target="_blank"} |
+| Date | Information |
+| --- | --- |
+| Wed. 6/28 | *Reading due*: Hegel's [Lectures on the History of Philosophy](https://archive.org/details/lecturesonthehis01hegeuoft/page/n21/mode/2up){:target="_blank"}, Introduction (pp. 1 - 39) <br> [Prof. Peter's Notes](notes\meeting-1\peters_notes.md){:target="_blank"} <br> Reading Notes [forthcoming] <br> Recording [forthcoming] |
+| TBD | *Reading Due*: [*Phenomenology*](http://www.faculty.umb.edu/gary_zabel/Courses/Marxist_Philosophy/Hegel_and_Feuerbach_files/Hegel-Phenomenology-of-Spirit.pdf){:target="_blank"}, Preface and Introduction <br> Prof. Peter's Notes [forthcoming] |
 
 ---
 
