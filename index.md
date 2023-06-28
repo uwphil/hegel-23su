@@ -26,8 +26,8 @@ Updates and discussion are happening in the `#rg-hegel-su23` channel in the [UW 
 
 | Date | Information |
 | --- | --- |
-| Wed. 6/28 | *Reading due*: Hegel's [Lectures on HP](https://archive.org/details/lecturesonthehis01hegeuoft/page/n21/mode/2up){:target="_blank"}, Introduction (pp. 1 - 39) <br> <br> *Resources* <br> <ul> <li> [Prof. Peter's Notes](notes\meeting-1\peters_notes){:target="_blank"} </li> <li> Reading Notes [forthcoming] </li><li> Recording [forthcoming] </li> </ul> |
-| TBD | *Reading Due*: [*Phenomenology*](http://www.faculty.umb.edu/gary_zabel/Courses/Marxist_Philosophy/Hegel_and_Feuerbach_files/Hegel-Phenomenology-of-Spirit.pdf){:target="_blank"}, Preface and Introduction <br> Prof. Peter's Notes [forthcoming] |
+| Wed. 6/28 | *Reading due*: Hegel's Lectures on HP, Introduction (pp. 1 - 39) <br> <br> *Resources* <br> [Prof. Peter's Notes](notes\meeting-1\peters_notes){:target="_blank"} <br> Reading Notes [forthcoming] <br> Recording [forthcoming] |
+| TBD | *Reading Due*: The *Phenomenology*, Preface and Introduction <br><br> *Resources* <br> Prof. Peter's Notes [forthcoming] |
 
 ---
 
