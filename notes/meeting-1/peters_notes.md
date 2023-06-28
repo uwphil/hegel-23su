@@ -4,6 +4,8 @@ title: Prof. Peters' Notes
 ---
 
 # Prof. Peters' Notes
+Download original Word document [here](notes\meeting-1\Hegel_Reading_Group_Notes.docx){:target="_blank"}.
+
 - Descartes initiated the criterion that philosophy must be methodical
     - Hegel initiated the criterion that philosophy must be able to account for the existence of the plurality of philosophies
     - Not simply critique them
