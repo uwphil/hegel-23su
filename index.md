@@ -26,7 +26,7 @@ Updates and discussion are happening in the `#rg-hegel-su23` channel in the [UW 
 
 | Date | Information |
 | --- | --- |
-| Wed. 6/28 | *Reading due*: Hegel's Lectures on HP, Introduction (pp. 1 - 39) <br> <br> *Resources* <br> [Prof. Peter's Notes](notes\meeting-1\peters_notes){:target="_blank"} <br> Reading Notes [forthcoming] <br> Recording [forthcoming] |
+| Wed. 6/28 | *Reading due*: Hegel's Lectures on HP, Introduction (pp. 1 - 39) <br> <br> *Resources* <br> [Prof. Peter's Notes](notes\meeting-1\peters_notes){:target="_blank"} <br> [Audio Recording](https://www.youtube.com/watch?v=ZgSNx00g0yk){:target="_blank"} <br> [Transcript and AI Key Points](notes\meeting-1\transcript.md){:target="_blank"}  |
 | TBD | *Reading Due*: The *Phenomenology*, Preface and Introduction <br><br> *Resources* <br> Prof. Peter's Notes [forthcoming] |
 
 ---
