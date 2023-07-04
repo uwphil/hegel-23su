@@ -16,7 +16,7 @@ Led by Dr. Peters, University of Washington.
 
 If you are joining remotely, use [this Zoom room](https://washington.zoom.us/j/99546368319){:target="_blank"}. Meetings will be recorded and posted below. We will be meeting every week:
 - Wednesday 4:30 PM - 5:30 PM, Savery Big Table (level 3)
-- Wednesday 4:30 PM - 5:30 PM, Savery Big Table (level 3)
+- Thursday 4:30 PM - 5:30 PM, Savery Big Table (level 3)
 
 Updates and discussion are happening in the `#rg-hegel-su23` channel in the [UW Philosophy Discord](https://discord.gg/FEzZbzThJd){:target="_blank"}. 
 
@@ -28,7 +28,7 @@ Updates and discussion are happening in the `#rg-hegel-su23` channel in the [UW 
 | --- | --- |
 | Wed. 6/28 | Introduction to Hegel, Difference in Philosophy <br><br> *Reading due*: Hegel's Lectures on HP, Introduction (pp. 1 - 39) <br> <br> *Resources* <br> [Prof. Peter's Notes](notes\meeting-1\peters_notes){:target="_blank"} <br> [Audio Recording](https://www.youtube.com/watch?v=ZgSNx00g0yk){:target="_blank"} <br> [Transcript and AI Key Points](notes\meeting-1\transcript){:target="_blank"} <br> [Peters' Followup Note](notes\meeting-1\followup){:target="_blank"}  |
 | Thu. 6/29 | Hegel's Notion of Development <br><br> *Reading due*: None <br> <br> *Resources* <br> [Video Recording](https://youtu.be/nKwnGaWF0z4){:target="_blank"} <br> [Transcript and AI Key Points](notes\meeting-2\transcript){:target="_blank"} |
-| Wed. 7/5 | *Reading Due*: The *Phenomenology*, Preface and Introduction <br><br> *Resources* <br> Prof. Peter's Notes [forthcoming] |
+| Wed. 7/5 | *Reading Due*: The *Phenomenology*, Preface & Introduction <br><br> *Resources* <br> Prof. Peter's Notes [forthcoming] |
 | Thu. 7/6 | ... |
 
 ---
