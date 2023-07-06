@@ -24,6 +24,8 @@ Updates and discussion are happening in the `#rg-hegel-su23` channel in the [UW 
 
 ## Calendar
 
+**General links:** [Q&A](notes\qna){:target="_blank"}, [Miscellaneous/General Notes](notes\general-notes){:target="_blank"}
+
 | Date | Information |
 | --- | --- |
 | Wed. 6/28 | Introduction to Hegel, Difference in Philosophy <br><br> *Reading due*: Hegel's Lectures on HP, Introduction (pp. 1 - 39) <br> <br> *Resources* <br> [Audio Recording](https://www.youtube.com/watch?v=ZgSNx00g0yk){:target="_blank"} <br> [Transcript and AI Key Points](notes\meeting-1\transcript){:target="_blank"} <br> [Prof. Peter's Notes](notes\meeting-1\peters_notes){:target="_blank"} <br> [Peters' Followup Note](notes\meeting-1\followup){:target="_blank"}  |

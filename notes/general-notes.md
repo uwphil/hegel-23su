@@ -1,0 +1,9 @@
+---
+layout: default
+title: General Notes
+---
+
+Miscellaneous general notes.
+
+### Disagreement in Philosophy (Meeting 1)
+One important point (to follow up on today's session) or way to frame things is to ask yourself: "Why do I find this philosophy convincing while others do not?" "Why am I convinced by this or that philosophical claim or position while others aren't? Are they just being obtuse? Do they just not get it? Why do this happen?" Hegel would have us actually explain this fact. To cut to the chase, what determines whether or not one is receptive to a certain philosophy, according to Hegel, depends on one's level of development. A useful way to frame this is to recall an old Scholastic metaphysical law: "effects are received according to the mode of the patient." Thus, the same soundwaves will be received differently depending upon if the patient is a rock, a dog, a human, a human that speaks the language, etc. So, similarly, the same philosophical positions, arguments, etc. will be received by different people according to their "mode," i.e. the SAME philosophy will produce a different effect. Of course, there is no way to step outside of one's current viewpoint to compare the "effect" the philosophy has had on one with the philosophy "in itself" but that's a problem of objectivity that we'll tackle later. This, of course, can also sound chauvinistic, i.e. "you disagree with me because you're not on my level." But the alternative would seem to be that no one ever needs to change, perhaps radically change, themselves and their viewpoint in order become adequate to the philosophy they would understand, i.e. that is currently producing an effect in them. That is perhaps the deeper chauvinist of the individual egoism that insists there is nothing higher than their current viewpoint, so all things must conform to it. It is to render the very notion of development (a core part of Hegelianism) meaningless.
