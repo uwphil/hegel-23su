@@ -31,7 +31,7 @@ Updates and discussion are happening in the `#rg-hegel-su23` channel in the [UW 
 | Wed. 6/28 | Introduction to Hegel, Difference in Philosophy <br><br> *Reading due*: Hegel's Lectures on HP, Introduction (pp. 1 - 39) <br> <br> *Resources* <br> [Audio Recording](https://www.youtube.com/watch?v=ZgSNx00g0yk){:target="_blank"} <br> [Transcript and AI Key Points](notes\meeting-1\transcript){:target="_blank"} <br> [Prof. Peter's Notes](notes\meeting-1\peters_notes){:target="_blank"} <br> [Peters' Followup Note](notes\meeting-1\followup){:target="_blank"}  |
 | Thu. 6/29 | Hegel's Notion of Development <br><br> *Reading due*: None <br> <br> *Resources* <br> [Video Recording](https://youtu.be/nKwnGaWF0z4){:target="_blank"} <br> [Transcript and AI Key Points](notes\meeting-2\transcript){:target="_blank"} |
 | Wed. 7/5 | Hegel's Project and Basic Hegelese <br><br> *Reading Due*: The *Phenomenology*, Preface <br><br> *Resources* <br> [Video Recording](https://youtu.be/DGtaDXhK9eU){:target="_blank"} <br> [Transcript and AI Key Points](notes\meeting-3\transcript){:target="_blank"} |
-| Thu. 7/6 | Introduction to the Phenomenology <br><br>*Reading Due*: The *Phenomenology*, Introduction <br><br> [Video Recording](https://www.youtube.com/watch?v=l_wR2x-3hWc){:target="_blank"} <br> [Transcript and AI Key Points](notes\meeting-4\transcript){:target="_blank"} |
+| Thu. 7/6 | Introduction to the Phenomenology <br><br>*Reading Due*: The *Phenomenology*, Introduction <br><br> *Resources* <br> [Video Recording](https://www.youtube.com/watch?v=l_wR2x-3hWc){:target="_blank"} <br> [Transcript and AI Key Points](notes\meeting-4\transcript){:target="_blank"} |
 | Thu 7/13 | *Reading Due*: The *Phenomenology*, TBD |
 
 ---
