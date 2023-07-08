@@ -15,8 +15,8 @@ Led by Dr. Peters, University of Washington.
 ## Schedule and Location
 
 If you are joining remotely, use [this Zoom room](https://washington.zoom.us/j/99546368319){:target="_blank"}. Meetings will be recorded and posted below. We will be meeting every week:
-- Wednesday 4:30 PM - 5:30 PM, Savery Big Table (level 3)
 - Thursday 4:30 PM - 5:30 PM, Savery Big Table (level 3)
+- Friday 4:30 PM - 5:30 PM, Savery Big Table (level 3)
 
 Updates and discussion are happening in the `#rg-hegel-su23` channel in the [UW Philosophy Discord](https://discord.gg/FEzZbzThJd){:target="_blank"}. 
 
