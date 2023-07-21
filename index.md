@@ -31,11 +31,11 @@ Updates and discussion are happening in the `#rg-hegel-su23` channel in the [UW 
 | Wed. 6/28 | Introduction to Hegel, Difference in Philosophy <br><br> *Reading due*: Hegel's Lectures on HP, Introduction (pp. 1 - 39) <br> <br> *Resources* <br> [Audio Recording](https://www.youtube.com/watch?v=ZgSNx00g0yk){:target="_blank"} <br> [Transcript and AI Key Points](notes\meeting-1\transcript){:target="_blank"} <br> [Prof. Peter's Notes](notes\meeting-1\peters_notes){:target="_blank"} <br> [Peters' Followup Note](notes\meeting-1\followup){:target="_blank"}  |
 | Thu. 6/29 | Hegel's Notion of Development <br><br> *Reading due*: None <br> <br> *Resources* <br> [Video Recording](https://youtu.be/nKwnGaWF0z4){:target="_blank"} <br> [Transcript and AI Key Points](notes\meeting-2\transcript){:target="_blank"} |
 | Wed. 7/5 | Hegel's Project and Basic Hegelese <br><br> *Reading Due*: The *Phenomenology*, Preface <br><br> *Resources* <br> [Video Recording](https://youtu.be/DGtaDXhK9eU){:target="_blank"} <br> [Transcript and AI Key Points](notes\meeting-3\transcript){:target="_blank"} |
-| Thu. 7/6 | Introduction to the Phenomenology <br><br>*Reading Due*: The *Phenomenology*, Introduction <br><br> *Resources* <br> [Video Recording](https://www.youtube.com/watch?v=l_wR2x-3hWc){:target="_blank"} <br> [Transcript and AI Key Points](notes\meeting-4\transcript){:target="_blank"} |
-| Thu 7/13 | Sense-Certainty, Part I <br><br>*Reading Due*: The *Phenomenology*, "Sense-Certainty": para. 90 - 110, pgs. 94 - 102 in PDF.<br><br>*Resources* <br> [Video Recording](https://www.youtube.com/watch?v=LWJe6gZXBk8){:target="_blank"} <br> [Transcript and AI Key Points](notes\meeting-5\transcript){:target="_blank"} |
-| Fri 7/14 | Sense-Certainty, Part II <br><br> *Reading Due*: None <br><br> *Resources* <br> [Video Recording](https://youtu.be/tMKzb3FAiXk){:target="_blank"} |
-| Thu 7/20 | Perception <br><br> *Reading Due*: The *Phenomenology*, "Perception": para. 111 - 131, pgs. 105 - 115. |
-| Fri 7/21 | *Reading Due*: TBD, start Master-Slave dialectic. |
+| Thu. 7/6 | Introduction to the *Phenomenology* <br><br>*Reading Due*: The *Phenomenology*, Introduction <br><br> *Resources* <br> [Video Recording](https://www.youtube.com/watch?v=l_wR2x-3hWc){:target="_blank"} <br> [Transcript and AI Key Points](notes\meeting-4\transcript){:target="_blank"} |
+| Thu 7/13 | Sense-Certainty, Continued <br><br>*Reading Due*: The *Phenomenology*, "Sense-Certainty": para. 90 - 110, pgs. 94 - 102 in PDF.<br><br>*Resources* <br> [Video Recording](https://www.youtube.com/watch?v=LWJe6gZXBk8){:target="_blank"} <br> [Transcript and AI Key Points](notes\meeting-5\transcript){:target="_blank"} |
+| Fri 7/14 | Sense-Certainty, Continued <br><br> *Reading Due*: None <br><br> *Resources* <br> [Video Recording](https://youtu.be/tMKzb3FAiXk){:target="_blank"} |
+| Thu 7/20 | Perception <br><br> *Reading Due*: The *Phenomenology*, "Perception": para. 111 - 131, pgs. 105 - 115. <br><br> *Resources* <br> [Video Recording](https://youtu.be/fCwghpYsIaQ){:target="_blank"} |
+| Fri 7/21 | Perception, Continued <br><br> *Reading Due*: None |
 | Thu 7/27 | *Reading Due*: The *Phenomenology* |
 
 ---
