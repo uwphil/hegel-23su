@@ -35,7 +35,7 @@ Updates and discussion are happening in the `#rg-hegel-su23` channel in the [UW 
 | Thu 7/13 | Sense-Certainty, Continued <br><br>*Reading Due*: The *Phenomenology*, "Sense-Certainty": para. 90 - 110, pgs. 94 - 102 in PDF.<br><br>*Resources* <br> [Video Recording](https://www.youtube.com/watch?v=LWJe6gZXBk8){:target="_blank"} <br> [Transcript and AI Key Points](notes\meeting-5\transcript){:target="_blank"} |
 | Fri 7/14 | Sense-Certainty, Continued <br><br> *Reading Due*: None <br><br> *Resources* <br> [Video Recording](https://youtu.be/tMKzb3FAiXk){:target="_blank"} |
 | Thu 7/20 | Perception <br><br> *Reading Due*: The *Phenomenology*, "Perception": para. 111 - 131, pgs. 105 - 115. <br><br> *Resources* <br> [Video Recording](https://youtu.be/fCwghpYsIaQ){:target="_blank"} |
-| Fri 7/21 | Perception, Continued <br><br> *Reading Due*: None |
+| Fri 7/21 | Perception, Continued <br><br> *Reading Due*: None <br><br> *Resources* <br> [Video Recording](https://youtu.be/D6Ig5eSVqUc){:target="_blank"} |
 | Thu 7/27 | *Reading Due*: The *Phenomenology* |
 
 ---
