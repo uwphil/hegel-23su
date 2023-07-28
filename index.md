@@ -36,7 +36,7 @@ Updates and discussion are happening in the `#rg-hegel-su23` channel in the [UW 
 | Fri 7/14 | Sense-Certainty, Continued <br><br> *Reading Due*: None <br><br> *Resources* <br> [Video Recording](https://youtu.be/tMKzb3FAiXk){:target="_blank"} |
 | Thu 7/20 | Perception <br><br> *Reading Due*: The *Phenomenology*, "Perception": para. 111 - 131, pgs. 105 - 115. <br><br> *Resources* <br> [Video Recording](https://youtu.be/fCwghpYsIaQ){:target="_blank"} |
 | Fri 7/21 | Perception, Continued <br><br> *Reading Due*: None <br><br> *Resources* <br> [Video Recording](https://youtu.be/D6Ig5eSVqUc){:target="_blank"} |
-| Thu 7/27 | The Lord-Bondsman Dialectic <br><br> *Reading Due*: The *Phenomenology*, "Self-Consciousness" to "Lordship and Bondage": para. 166 - 196, pgs. 140 - 155 <br> Optional: ["The Self-Sublation of Empirical Consciousness"](assets\Peters_Writing_Sample_Hegel.pdf){:target="_blank"} by our very own Matthew Peters. <br><br> *Resources* <br> [Pre-Meeting Notes](){:target="_blank"|
+| Thu 7/27 | The Lord-Bondsman Dialectic <br><br> *Reading Due*: The *Phenomenology*, "Self-Consciousness" to "Lordship and Bondage": para. 166 - 196, pgs. 140 - 155 <br> Optional: ["The Self-Sublation of Empirical Consciousness"](assets\Peters_Writing_Sample_Hegel.pdf){:target="_blank"} by our very own Matthew Peters. <br><br> *Resources* <br> [Pre-Meeting Notes](\notes\meeting-10\peters_notes.md){:target="_blank"} <br> [Video Recording](https://chng.it/sW4JPYsk4R){:target="_blank"} |
 
 ---
 
