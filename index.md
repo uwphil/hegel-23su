@@ -49,6 +49,7 @@ Led by Dr. Peters, University of Washington.
 **Supplementary Readings** (peer recommendations!)
 - ["The Self-Sublation of Empirical Consciousness"](assets\Peters_Writing_Sample_Hegel.pdf){:target="_blank"} by Matthew Peters
 - [*Hegel in a Wired Brain*](https://drive.google.com/file/d/1r_92PN3vTJxfkvdytJIiUZohdbvnzD2P/view?usp=sharing){:target="_blank"} by Slavoj Zizek
+- [Lectures on Phenomenology and Logic](https://drive.google.com/drive/folders/11lPs5WXnJ5sFp3BDqKJxCdcLkSKbEbcQ?usp=sharing){:target="_blank"}, Bernard Lonergan
 - ["Caliban's last sigh"](https://www.theguardian.com/books/2003/sep/27/poetry.classics){:target="_blank"} (on WH Auden) by Jeremy Noel Tod
 - ["The Master's Tools Will Never Dismantle the Master's House"](https://collectiveliberation.org/wp-content/uploads/2013/01/Lorde_The_Masters_Tools.pdf){:target="_blank"} by Audre Lorde
 - ["Frantz Fanon's Engagement with Hegel's Master-Slave Dialectic"](https://www.jpanafrican.org/docs/vol11no8/11.8-2-Hogan%20(1)89.pdf){:target="_blank"} by Brandon Hogan
