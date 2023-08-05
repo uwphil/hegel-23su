@@ -13,7 +13,7 @@ Led by Dr. Peters, University of Washington.
 ---
 
 ## General Links
-- [YouTube Playlist](https://youtube.com/playlist?list=PLscnsYr7gwNvXB4ql_ei4ZvhbyYIPtmRc){:target="_blank"}
+- [YouTube Playlist](https://youtube.com/playlist?list=PLscnsYr7gwNvXB4ql_ei4ZvhbyYIPtmRc){:target="_blank"} (~21 hours of content)
 - [Q&A](notes\qna){:target="_blank"}
 - [Miscellaneous/General Notes](notes\general-notes){:target="_blank"}
 
