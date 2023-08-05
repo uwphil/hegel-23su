@@ -12,13 +12,10 @@ Led by Dr. Peters, University of Washington.
 
 ---
 
-## Schedule and Location
-
-If you are joining remotely, use [this Zoom room](https://washington.zoom.us/j/99546368319){:target="_blank"}. Meetings will be recorded and posted below. We will be meeting every week:
-- Thursday 4:30 PM - 5:30 PM, Savery Big Table (level 3)
-- Friday 4:30 PM - 5:30 PM, Savery Big Table (level 3)
-
-Updates and discussion are happening in the `#rg-hegel-su23` channel in the [UW Philosophy Discord](https://discord.gg/FEzZbzThJd){:target="_blank"}. 
+## General Links
+- [YouTube Playlist](https://youtube.com/playlist?list=PLscnsYr7gwNvXB4ql_ei4ZvhbyYIPtmRc){:target="_blank"}
+- [Q&A](notes\qna){:target="_blank"}
+- [Miscellaneous/General Notes](notes\general-notes){:target="_blank"}
 
 ---
 
@@ -37,18 +34,44 @@ Updates and discussion are happening in the `#rg-hegel-su23` channel in the [UW 
 | Thu 7/20 | Perception: From Truth as Immediacy to Universality <br><br> *Reading Due*: The *Phenomenology*, "Perception": para. 111 - 131, pgs. 105 - 115. <br><br> [Video Recording](https://youtu.be/fCwghpYsIaQ){:target="_blank"} |
 | Fri 7/21 | Perception and Hegel's Consciousness <br><br> [Video Recording](https://youtu.be/D6Ig5eSVqUc){:target="_blank"} |
 | Thu 7/27 | Self-Consciousness <br><br> *Reading Due*: The *Phenomenology*, "Self-Consciousness" to "Lordship and Bondage": para. 166 - 196, pgs. 140 - 155 <br> Optional: ["The Self-Sublation of Empirical Consciousness"](assets\Peters_Writing_Sample_Hegel.pdf){:target="_blank"} by our very own Matthew Peters. <br><br> [Pre-Meeting Notes](\notes\meeting-10\peters_notes.md){:target="_blank"} <br><br> [Video Recording](https://youtu.be/iuZZ4Hfnaqo){:target="_blank"} |
-| Fri 7/28 | The Lord-Bondsman Dialectic <br><br> [Video Recording](https://youtu.be/QEfCjAaSbSA){:target="_blank"}
+| Fri 7/28 | The Lord-Bondsman Dialectic <br><br> [Video Recording](https://youtu.be/QEfCjAaSbSA){:target="_blank"} |
+| Thu 8/3 | Beyond the Lord-Bondsman Dialectic, Lonergan's Supersession <br><br> [Video Recording](https://youtu.be/t3F4sXUbUUM){:target="_blank"} |
+| Fri 8/4 | Beyond Hegel: Lonergan, Husserl, Lorde, Fanon, Zizek... <br><br> [Video Recording](https://youtu.be/DaezOr2SDSo){:target="_blank"} |
 
 ---
 
 ## Readings
-Links provided by Prof. Peters.
+
+**Main Readings**
 - [Lectures on the History of Philosophy](https://archive.org/details/lecturesonthehis01hegeuoft/page/n21/mode/2up){:target="_blank"}
 - [*Phenomenology of the Spirit* (Findlay translation)](http://www.faculty.umb.edu/gary_zabel/Courses/Marxist_Philosophy/Hegel_and_Feuerbach_files/Hegel-Phenomenology-of-Spirit.pdf){:target="_blank"}
 
-Words of encouragement from Prof. Peters on the *Phenomenology of the Spirit*:
+**Supplementary Readings** (peer recommendations!)
+- ["The Self-Sublation of Empirical Consciousness"](assets\Peters_Writing_Sample_Hegel.pdf){:target="_blank"} by Matthew Peters
+- [*Hegel in a Wired Brain*](https://drive.google.com/file/d/1r_92PN3vTJxfkvdytJIiUZohdbvnzD2P/view?usp=sharing){:target="_blank"} by Slavoj Zizek
+- ["Caliban's last sigh"](https://www.theguardian.com/books/2003/sep/27/poetry.classics){:target="_blank"} (on WH Auden) by Jeremy Noel Tod
+- ["The Master's Tools Will Never Dismantle the Master's House"](https://collectiveliberation.org/wp-content/uploads/2013/01/Lorde_The_Masters_Tools.pdf){:target="_blank"} by Audre Lorde
+- ["Frantz Fanon's Engagement with Hegel's Master-Slave Dialectic"](https://www.jpanafrican.org/docs/vol11no8/11.8-2-Hogan%20(1)89.pdf){:target="_blank"} by Brandon Hogan
+- [*Woman Native Other*](https://drive.google.com/file/d/1GyW5FD1K3O0JNfkvBgruE_2mVnrjwJAB/view?usp=sharing){:target="_blank"} by Trinh T. Minh-ha
+- [*Orientalism*](https://drive.google.com/file/d/1ahjIC7uowlSm6NOyb61BK0nSoNAVisXJ/view?usp=sharing){:target="_blank"} by Edward Said
+- ["Black Skin, White Masks"](https://drive.google.com/file/d/1RJKPYevZEVAOg2s5bqkT9MQ4O_ofem4_/view?usp=sharing){:target="_blank"} by Frantz Fanon
+- [*Metamodernism: The Future of Theory*](https://drive.google.com/file/d/1cwhckKgaHtddsgi27IeIUuuYNXUkSh2K/view?usp=sharing){:target="_blank"} by Jason Ānanda Josephson Storm
+- [*On Truth and Untruth*](https://drive.google.com/file/d/12kfoGf6GSZ7igg8moC0qePhxQaAF3C8n/view?usp=sharing){:target="_blank"} by Friedrich, translated and edited by Taylor Carman
+- ["Rawls, Hegel, and Communitarianism"](https://www.jstor.org/stable/192057){:target="_blank"} by Sibyl A. Schwarzenbach
 
-> It will likely read like gibberish. Yes, worse that Husserl. But, don't worry, Hegel ain't actually that hard. Seriously. Don't be intimidated. There's just a nest of terms that, as Lonergan and Hilbert would say, implicitly define one another that you have to a hold on and then the whole thing starts to open up.
+
+https://www.jstor.org/stable/192057
+http://www.autodidactproject.org/other/pochmann.html
+
+---
+
+## Schedule and Location
+
+If you are joining remotely, use [this Zoom room](https://washington.zoom.us/j/99546368319){:target="_blank"}. Meetings will be recorded and posted below. We will be meeting every week:
+- Thursday 4:30 PM - 5:30 PM, Savery Big Table (level 3)
+- Friday 4:30 PM - 5:30 PM, Savery Big Table (level 3)
+
+Updates and discussion are happening in the `#rg-hegel-su23` channel in the [UW Philosophy Discord](https://discord.gg/FEzZbzThJd){:target="_blank"}.
 
 ---
 
