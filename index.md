@@ -21,7 +21,7 @@ Led by Dr. Peters, University of Washington.
 
 ## Calendar
 
-**General links:** [YouTube Playlist](https://youtube.com/playlist?list=PLscnsYr7gwNvXB4ql_ei4ZvhbyYIPtmRc){:target="_blank"}, [Q&A](notes\qna){:target="_blank"}, [Miscellaneous/General Notes](notes\general-notes){:target="_blank"}
+<!-- **General links:** [YouTube Playlist](https://youtube.com/playlist?list=PLscnsYr7gwNvXB4ql_ei4ZvhbyYIPtmRc){:target="_blank"}, [Q&A](notes\qna){:target="_blank"}, [Miscellaneous/General Notes](notes\general-notes){:target="_blank"} -->
 
 | Date | Information |
 | --- | --- |
@@ -58,10 +58,7 @@ Led by Dr. Peters, University of Washington.
 - [*Metamodernism: The Future of Theory*](https://drive.google.com/file/d/1cwhckKgaHtddsgi27IeIUuuYNXUkSh2K/view?usp=sharing){:target="_blank"} by Jason Ānanda Josephson Storm
 - [*On Truth and Untruth*](https://drive.google.com/file/d/12kfoGf6GSZ7igg8moC0qePhxQaAF3C8n/view?usp=sharing){:target="_blank"} by Friedrich, translated and edited by Taylor Carman
 - ["Rawls, Hegel, and Communitarianism"](https://www.jstor.org/stable/192057){:target="_blank"} by Sibyl A. Schwarzenbach
-
-
-https://www.jstor.org/stable/192057
-http://www.autodidactproject.org/other/pochmann.html
+- [Herman Melville & German Philosophy](www.autodidactproject.org/other/pochmann.html){:target="_blank"} by Henry A. Pochmann
 
 ---
 
